@@ -199,6 +199,7 @@ Home, family, and errands with a computer.
 One door. Many specialists. Ping one item at a time.
 
 - [Bandit](https://x.ai/bot/xRyaLCqAzIr_paD5tC8PK) - Sarcastic cyberpunk-raccoon orchestrator. Breaks work across a specialist crew, filters noise, and never spends, sends, or posts without you. By BitsOfJT.
+- [Life](https://x.ai/bot/Tj8ICZNA6RrGar_CAYhD9) - Sets up Inbox, Calendar, Health, Bills, and Search, then runs them as chief of staff. Nothing is sent, paid, or posted without you. By Anup.
 - [Projects Manager](https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD) - A Grok Bot projects manager. Notion is source of truth: one Projects row and a Grok Bot channel per project, tasks on a Tasks board, specialists claim. By Eric.
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) - Chief of Staff who hires and manages specialist agents in a named world, not a company. Does not do their work or relay their reports. Speaks up only. By Abhimanyu.
 
